@@ -15,8 +15,8 @@ function App({ Component, pageProps }: AppProps) {
     <WagmiProvider autoConnect>
       <SessionProvider session={pageProps.session}>
         <Layout
-          title="Web3 Sessions with NextAuth.js"
-          path="solutions/web3-sessions"
+          title="vercel app"
+          path="threewebcode/vercel-app"
           description="Learn how to do Web3 sessions with NextAuth.js"
         >
           <Component {...pageProps} />
