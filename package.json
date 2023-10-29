@@ -1,6 +1,6 @@
 {
-  "name": "web3-sessions",
-  "repository": "https://github.com/vercel/examples.git",
+  "name": "vercel-app",
+  "repository": "https://github.com/threewebcode/vercel-app.git",
   "license": "MIT",
   "private": true,
   "scripts": {
