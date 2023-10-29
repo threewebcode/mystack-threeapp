@@ -19,7 +19,7 @@ export default NextAuth({
         }
         return {
           id: credentials?.address,
-        }
+        } as any
       },
     }),
   ],
